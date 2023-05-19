@@ -7,7 +7,7 @@
 %define vendor_pretty Google
 %define device_pretty Pixel XL
 
-%define android_version_major 9
+%define android_version_major 11
 
 # Community HW adaptations need this
 %define community_adaptation 1
